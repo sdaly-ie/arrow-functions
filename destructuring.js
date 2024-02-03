@@ -3,6 +3,8 @@
  * command node destructuring.js in the terminal
  */
 
+//Destructuring assignment
+
 // Destructuring arrays
 let ages = [30, 26, 27];
 // let john = ages[0];
